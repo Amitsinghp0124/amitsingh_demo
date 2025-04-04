@@ -1,2 +1,3 @@
 # amitsingh_demo
-This is my first repo
+This is my first Repository.
+Author - Amit Singh
